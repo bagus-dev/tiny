@@ -1,0 +1,13 @@
+{
+    "name": "@bagus-dev/tiny",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "repository": "bagus-dev/tiny",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package",
+        "bagus-dev"
+    ]
+}
