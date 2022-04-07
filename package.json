@@ -2,6 +2,7 @@
     "name": "@bagus-dev/tiny",
     "version": "2.0.0",
     "description": "Removes all spaces from a string",
+    "license": "MIT",
     "repository": "bagus-dev/tiny",
     "main": "index.js",
     "keywords": [
