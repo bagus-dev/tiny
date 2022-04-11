@@ -1,6 +1,6 @@
 {
     "name": "@bagus-dev/tiny",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "description": "Removes all spaces from a string",
     "license": "MIT",
     "repository": "bagus-dev/tiny",
