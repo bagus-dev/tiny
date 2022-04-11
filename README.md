@@ -3,6 +3,8 @@
 [![npm (scoped)](https://img.shields.io/npm/v/@bagus-dev/tiny.svg)](https://www.npmjs.com/package/@bagus-dev/tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bagus-dev/tiny.svg)](https://www.npmjs.com/package/@bagus-dev/tiny)
 
+Hello Everyone!
+This is my first npm package, I'm so excited!
 Removes all spaces from a string.
 
 ## Install
