@@ -14,7 +14,7 @@ $ npm install @bagus-dev/tiny
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@bagus-dev/tiny");
 tiny("So much space!");
 //=> "Somuchspace!"
 tiny(1337);
